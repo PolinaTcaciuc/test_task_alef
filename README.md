@@ -1,39 +1,42 @@
-# alef
+# Тестовое задание для компании Alef Development
+[Демо](https://polinatcaciuc.github.io/test_task_alef/)
 
-This template should help get you started developing with Vue 3 in Vite.
 
-## Recommended IDE Setup
+Этот шаблон поможет вам начать разработку с использованием Vue 3 и Vite.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Рекомендуемая настройка среды разработки (IDE)
 
-## Type Support for `.vue` Imports in TS
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (и отключите Vetur).
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Поддержка типов для импорта .vue файлов в TypeScript
 
-## Customize configuration
+TypeScript не обрабатывает информацию о типах для импорта .vue файлов по умолчанию, поэтому для проверки типов мы заменяем CLI tsc на vue-tsc. В редакторах кода нам нужен [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) чтобы сервис TypeScript понимал типы .vue файлов.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Настройте конфигурацию
 
-## Project Setup
+См. [Vite Configuration Reference](https://vite.dev/config/).
+
+## Настройка проекта
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Компиляция и горячая перезагрузка для разработки
 
 ```sh
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Типизация, компиляция и минификация для продакшена
 
 ```sh
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Проверка кода с помощью [ESLint](https://eslint.org/)
 
 ```sh
 npm run lint
 ```
+
