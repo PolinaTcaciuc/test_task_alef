@@ -1,6 +1,8 @@
 # Тестовое задание для компании Alef Development
 [Демо](https://polinatcaciuc.github.io/test_task_alef/)
 
+![image](https://github.com/user-attachments/assets/bb9d8530-1f94-4b14-aaf4-ff8c255f3a58)
+
 
 Этот шаблон поможет вам начать разработку с использованием Vue 3 и Vite.
 
